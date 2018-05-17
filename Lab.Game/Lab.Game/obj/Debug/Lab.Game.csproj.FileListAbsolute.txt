@@ -1,0 +1,9 @@
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\bin\Debug\Lab.Game.exe.config
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\bin\Debug\Lab.Game.exe
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\bin\Debug\Lab.Game.pdb
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\bin\Debug\Lab.Game.FizzBuzz.dll
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\bin\Debug\Lab.Game.FizzBuzz.pdb
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\obj\Debug\Lab.Game.csprojResolveAssemblyReference.cache
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\obj\Debug\Lab.Game.csproj.CoreCompileInputs.cache
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\obj\Debug\Lab.Game.exe
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game\obj\Debug\Lab.Game.pdb

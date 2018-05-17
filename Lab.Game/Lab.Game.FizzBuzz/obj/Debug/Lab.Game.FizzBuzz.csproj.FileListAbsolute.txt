@@ -1,0 +1,5 @@
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game.FizzBuzz\bin\Debug\Lab.Game.FizzBuzz.dll
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game.FizzBuzz\bin\Debug\Lab.Game.FizzBuzz.pdb
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game.FizzBuzz\obj\Debug\Lab.Game.FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game.FizzBuzz\obj\Debug\Lab.Game.FizzBuzz.dll
+C:\Users\Prasad Ramireddy\source\repos\Lab.Game\Lab.Game.FizzBuzz\obj\Debug\Lab.Game.FizzBuzz.pdb
